@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Config files
+.env
+config.json
+
+#migration files
+frontend_data
+frontend_helpers
+migrations
+seeder_data
+seeder_helpers
+seeders

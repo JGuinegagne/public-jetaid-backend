@@ -60,7 +60,7 @@
     "jsonfile": "^4.0.0",
     "jsonwebtoken": "^8.5.1",
     "method-override": "^2.3.10",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "morgan": "^1.9.1",
     "node-geocoder": "^3.25.0",
     "nodemon": "^1.19.4",
